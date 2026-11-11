@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dadix Web AI</string>
+    <string name="platform_tagline">AI Website Builder &amp; IDE Platform</string>
+    <string name="new_project">New Project</string>
+    <string name="projects">Projects</string>
+    <string name="files">Files</string>
+    <string name="editor">Editor</string>
+    <string name="preview">Live Preview</string>
+    <string name="chat">AI Assistant</string>
+    <string name="terminal">Terminal</string>
+    <string name="settings">Settings</string>
+    <string name="generate_site">Generate Site</string>
+    <string name="download_zip">Download ZIP</string>
+    <string name="deploy_cloudflare">Deploy</string>
+    <string name="project_type">Project Type</string>
+    <string name="tech_stack">Tech Stack</string>
+    <string name="prompt_placeholder">Describe the website you want to build in detail…</string>
+    <string name="save_file">Save</string>
+    <string name="new_file">New File</string>
+    <string name="delete_file">Delete File</string>
+    <string name="rename_file">Rename</string>
+    <string name="device_desktop">Desktop</string>
+    <string name="device_tablet">Tablet</string>
+    <string name="device_mobile">Mobile</string>
+    <string name="reload_preview">Reload</string>
+    <string name="open_external">Open in Browser</string>
+    <string name="cloudflare_settings">Cloudflare Pages Settings</string>
+    <string name="gemini_settings">Gemini API Settings</string>
+</resources>

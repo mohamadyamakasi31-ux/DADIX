@@ -1,0 +1,6 @@
+{
+  "name": "Dadix Web AI",
+  "description": "منصة ذكاء اصطناعي متكاملة لإنشاء وتعديل ومعاينة وتنزيل ونشر المواقع الإلكترونية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

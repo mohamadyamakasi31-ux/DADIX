@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Dadix Web AI</string>
+    <string name="platform_tagline">منصة بناء المواقع وتطويرها بالذكاء الاصطناعي</string>
+    <string name="new_project">مشروع جديد</string>
+    <string name="projects">المشاريع</string>
+    <string name="files">الملفات</string>
+    <string name="editor">محرر الكود</string>
+    <string name="preview">المعاينة الحية</string>
+    <string name="chat">المساعد الذكي</string>
+    <string name="terminal">الطرفية</string>
+    <string name="settings">الإعدادات</string>
+    <string name="generate_site">إنشاء الموقع</string>
+    <string name="download_zip">تنزيل ZIP</string>
+    <string name="deploy_cloudflare">نشر الموقع</string>
+    <string name="project_type">نوع المشروع</string>
+    <string name="tech_stack">التقنية</string>
+    <string name="prompt_placeholder">اكتب وصف الموقع الذي ترغب بإنشائه بالتفصيل…</string>
+    <string name="save_file">حفظ الملف</string>
+    <string name="new_file">ملف جديد</string>
+    <string name="delete_file">حذف الملف</string>
+    <string name="rename_file">إعادة تسمية</string>
+    <string name="device_desktop">حاسوب</string>
+    <string name="device_tablet">لوحي</string>
+    <string name="device_mobile">هاتف</string>
+    <string name="reload_preview">إعادة التحميل</string>
+    <string name="open_external">فتح في نافذة خارجية</string>
+    <string name="cloudflare_settings">إعدادات Cloudflare Pages</string>
+    <string name="gemini_settings">إعدادات Gemini API</string>
+</resources>
